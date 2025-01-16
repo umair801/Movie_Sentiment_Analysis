@@ -19,17 +19,4 @@ The following Python libraries are required to run the notebook:
 The dataset is sourced from [IMDB Movie Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download). Ensure the file `IMDB_Dataset.csv` is placed in the `Dataset` directory.
 
 ## Clone the repository:
-```bash
 git clone https://github.com/umair801/Movie_Sentiment_Analysis.git
-```
-
-Navigate to the project directory:
-```bash
-cd movie-sentiment-analysis
-```
-
-Run the notebook:
-```bash
-jupyter notebook movie_sentiment_analysis.ipynb
-```
-
