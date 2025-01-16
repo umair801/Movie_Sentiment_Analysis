@@ -20,7 +20,7 @@ The dataset is sourced from [IMDB Movie Dataset on Kaggle](https://www.kaggle.co
 
 ## Clone the repository:
 ```bash
-git clone https://github.com/yourusername/movie-sentiment-analysis.git
+git clone https://github.com/umair801/Movie_Sentiment_Analysis.git
 ```
 
 Navigate to the project directory:
